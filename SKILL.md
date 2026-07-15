@@ -1,5 +1,5 @@
 ---
-name: "prisma"
+name: "prisma-prisma"
 description: "Use when building, querying, migrating, or debugging a Node.js/TypeScript application that uses Prisma ORM (the `prisma` CLI, `@prisma/client`, `prisma.config.ts`, Prisma schema/`schema.prisma`, `@prisma/adapter-*` driver adapters, or Prisma Migrate/Studio). Covers writing a Prisma schema, configuring `prisma.config.ts`, generating and using Prisma Client (CRUD, transactions, raw/typed SQL, extensions), running migrations safely, and picking/using the right driver adapter."
 ---
 
